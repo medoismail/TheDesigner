@@ -277,7 +277,7 @@ body.tt-transition .ptr-prel-content {
 }
 
 .ptr-prel-image {
-	max-height: 96px; /* You may need to change the img height to match your logo type! */
+	max-height: 45px; /* You may need to change the img height to match your logo type! */
 	opacity: .2; /* You may need to change the opacity as well! */
 }
 
@@ -768,7 +768,7 @@ body:not(.tt-boxed) .tt-header-inner,
 	color: #FFF;
 }
 .tt-logo img {
-	max-height: 48px; /* You may need to change the img height to match your logo type! */
+	max-height: 30px; /* You may need to change the img height to match your logo type! */
 }
 
 .tt-logo-dark{
